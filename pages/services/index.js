@@ -5,7 +5,7 @@ import Circles from "../../components/Circles";
 
 //framer mption
 import { motion } from "framer-motion";
-import { fadeIn } from "../../variants";
+import { fadeIn } from "../../helpers/variants";
 
 const Services = () => {
   return (

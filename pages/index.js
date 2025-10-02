@@ -10,7 +10,7 @@ import Avatar from "../components/Avatar";
 import { motion } from "framer-motion";
 
 //variants
-import { fadeIn } from "../variants";
+import { fadeIn } from "../helpers/variants";
 
 const Home = () => {
   return (

@@ -8,7 +8,7 @@ import { BsArrowRight } from "react-icons/bs";
 import { motion } from "framer-motion";
 
 //varients
-import { fadeIn } from "../../variants";
+import { fadeIn } from "../../helpers/variants";
 
 const Contact = () => {
   return (
